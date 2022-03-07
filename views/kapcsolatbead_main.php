@@ -1,0 +1,1 @@
+<h1 style="margin: 20px;">Köszönjük! Sikeresen megkaptuk a levelét!</h1>

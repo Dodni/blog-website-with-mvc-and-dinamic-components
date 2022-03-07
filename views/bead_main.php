@@ -1,0 +1,1 @@
+<h1 style="margin: 20px;">Sikeresen megváltoztattad az emailt a kapcsolatokhoz!</h1>
